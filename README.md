@@ -1,6 +1,6 @@
 ## Jira Rest API to automate report extraction to Google Docs 
 
-NodeJs application that automates report extraction from Jira issues to a template Google doc. 
+NodeJs application that automates report extraction from Jira issues to a Google doc template. 
 
 
 
