@@ -29,7 +29,7 @@ https://support.google.com/cloud/answer/6158849?hl=en
 
 Before you run the application, save your Google OAuth credentials in the root folder and name the file **credentials.json**
 
-Add .env file to your root and safe the Jira API key there. Name it (JIRA_API_KEY=)
+Add **.env** file to your root and safe the Jira API key there. Name it **(JIRA_API_KEY=)**
 
 Make sure you add your own files and folders in the udpdateDoc.js file. 
 
