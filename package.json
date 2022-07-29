@@ -1,0 +1,21 @@
+{
+  "name": "jira-automation",
+  "version": "1.0.0",
+  "description": "Automated report extraction from Jira API's to GDoc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.mjs"
+  },
+  "type": "module",
+  "author": "Khalid Ibrahim",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "googleapis": "^105.0.0",
+    "node-fetch": "^3.2.9"
+  }
+}
