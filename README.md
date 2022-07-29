@@ -1,11 +1,11 @@
-**Jira Rest API to automate report extraction to Google Docs**
+## Jira Rest API to automate report extraction to Google Docs 
 
 NodeJs application that automates report extraction from Jira issues to a template Google doc. 
 
 
 
 
-**Used API**
+## Used APIs
 
 <!-- Google drive API -->
 https://developers.google.com/drive/api/v3/reference
@@ -25,7 +25,7 @@ https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-
 
 https://support.google.com/cloud/answer/6158849?hl=en
 
-**Running the application**
+## Running the application
 
 Before you run the application, save your Google OAuth credentials in the root folder and name the file **credentials.json**
 
@@ -36,7 +36,7 @@ Make sure you add your own files and folders in the udpdateDoc.js file.
 In reports.js file update the Jira url and add your email to the axios headers. 
 
 
-**Code to run**
+## Code to run
 
 git clone https://github.com/bigkay-designer/jira-report-automation.git
 
